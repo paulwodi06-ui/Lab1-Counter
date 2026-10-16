@@ -1,0 +1,9 @@
+
+# Verilator generated files
+**/obj_dir/
+
+# Simulation waveform files
+*.vcd
+
+# GTKWave save files
+*.gtkw
